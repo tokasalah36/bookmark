@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+background-image: url(../img/Premium\ Photo\ _\ Hand\ painted\ watercolor\ blue\ yellow\ background.jpg);
+background-size: cover;
+}
+.main-continer {
+  font-family: "Righteous", cursive;;
+  height: 100vh;
+}
+.img-bg {
+  width: 100px;
+}
+.title {
+  position: relative;
+  background-image: linear-gradient(
+    rgb(250, 229, 71),
+    #fdfd96,
+    #9696fd
+  );
+  background-clip: text;
+  color: transparent;
+}
+.submit-btn {
+
+  border: rgb(10, 10, 10) solid 2px;
+  color: rgb(253, 253,10);
+}
+.submit-btn:hover {
+  background-color: rgb(253, 253, 10);
+  border: rgb(12, 12, 12) solid 2px;
+}
+.visit i,
+.visit span {
+  color: rgb(0, 98, 128);
+}
+.visit:hover i,
+.visit:hover span {
+  color: white;
+}
+.sub-title i,
+label i {
+  font-size: 20px;
+  background-image: linear-gradient(
+    rgb(250, 229, 71),
+    rgb(253, 253, 71),
+    #9696fd
+  );
+  background-clip: text;
+  color: transparent;
+}
+.index {
+  position: relative;
+  transition: 0.3s;
+}
+
+
+
+.w-name {
+  position: relative;
+  transition: 0.3s;
+}
+
+
+.visit {
+  position: relative;
+  transition: 0.3s;
+}
+
+
+.delete {
+  position: relative;
+  transition: 0.3s;
+}
+
